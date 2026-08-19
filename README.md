@@ -44,6 +44,7 @@ LLM Test Machine — это десктопное приложение для н�
 
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 ![License](https://img.shields.io/badge/license-MIT-green)
+![GitHub repo size](https://img.shields.io/github/repo-size/Apex-drive/llm_test_machine)
+![GitHub last commit](https://img.shields.io/github/last-commit/Apex-drive/llm_test_machine)
