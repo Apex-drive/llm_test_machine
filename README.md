@@ -41,3 +41,9 @@ LLM Test Machine — это десктопное приложение для н�
 5. Нажмите **"Начать тестирование"**.
 6. Отслеживайте прогресс в реальном времени.
 7. После завершения нажмите **"Скачать результаты"**.
+
+![Version](https://img.shields.io/badge/version-1.0-blue)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+![License](https://img.shields.io/badge/license-MIT-green)
